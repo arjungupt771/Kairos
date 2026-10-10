@@ -426,5 +426,3 @@ The next improvements focus on connecting and refining the existing features:
 Kairos is a local-first learning and productivity project built to explore offline synchronization, AI-assisted planning, personalized learning, retrieval-augmented generation, and cross-feature application design.
 
 The emphasis is on functional depth, understandable architecture, and demonstrable engineering decisions—not deployment infrastructure or production-scale operations.
-#   K a i r o s  
- 

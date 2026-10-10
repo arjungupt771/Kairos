@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Kairos",
+    "slug": "kairos",
+    "version": "1.0.0",
+    "platforms": ["web"],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
